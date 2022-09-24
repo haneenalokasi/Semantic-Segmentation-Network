@@ -1,4 +1,4 @@
-# Semantic-Segmentation-Network
+# Semantic Segmentation Network
 This repository contains the code implementation of my master thesis entitled "Improving Accuracy of Semantic Segmentation Network Using a Pre-trained Classification Model as a Backbone".
 # Structure
 - unet_model.ipynb    [Original U-Net]
@@ -18,4 +18,15 @@ This repository contains the code implementation of my master thesis entitled "I
 - unet_vgg16_saroadscenes.ipynb    [Training on sa-roadscenes dataset with VGG-16 as backbone]
 - unet_inceptionv3_saroadscenes.ipynb    [Training on sa-roadscenes dataset with Inceptionv3 as backbone]
 - unet_resnet34_saroadscenes.ipynb    [Training on sa-roadscenes dataset with ResNet-34 as backbone]
+# Training Datasets
+The Sandstone dataset
+https://drive.google.com/file/d/1HWtBaSa-LTyAMgf2uaz1T9o1sTWDBajU/view
 
+Self-Driving Cars dataset
+https://www.kaggle.com/kumaresanmanickavelu/lyft-udacity-challenge
+
+Vale dataset
+https://www.kaggle.com/datasets/sadhoss/vale-semantic-terrain-segmentation 
+
+SA_RoadScenes dataset
+https://github.com/haneenalokasi/SA-RoadScenes
