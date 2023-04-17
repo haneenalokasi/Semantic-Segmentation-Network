@@ -25,5 +25,5 @@ https://www.kaggle.com/kumaresanmanickavelu/lyft-udacity-challenge
 Vale dataset
 https://www.kaggle.com/datasets/sadhoss/vale-semantic-terrain-segmentation 
 
-SA_RoadScenes dataset
-https://github.com/haneenalokasi/SA-RoadScenes
+Indoor dataset
+https://data.mendeley.com/datasets/hs5w7xfzdk/1
