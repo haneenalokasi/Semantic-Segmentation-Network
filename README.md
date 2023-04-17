@@ -16,7 +16,7 @@ This repository contains the code implementation of my master thesis entitled "I
 - unet_resnet34_vale.ipynb    [Training on vale dataset with ResNet-34 as backbone]
 
 # Training Datasets
-The Sandstone dataset
+Sandstone dataset
 https://drive.google.com/file/d/1HWtBaSa-LTyAMgf2uaz1T9o1sTWDBajU/view
 
 Self-Driving Cars dataset
